@@ -1,4 +1,5 @@
-## Hi there, my name is Ash. I'm currently a software engineer at a large distribution company 👋
+## Hi there, my name is Ash. 
+I'm currently a software engineer at a large distribution company 👋
 
 ### Background
 In my current role I do mostly a combination of data engineering and software development to support the data science team of our analytics organization. I have experience as an applied Machine Learning researcher as well and work primarily with Python and JavaScript.
