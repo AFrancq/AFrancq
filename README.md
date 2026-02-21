@@ -9,4 +9,10 @@ I am currently an undergraduate student at the University of Illinois - Chicago 
 
 My currently pinned repository is a personal project trying to implement an application of neuromorphic computing principles in Rust.
 
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
 - 📫 How to reach me: ash.francq@gmail.com
+
