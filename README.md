@@ -7,7 +7,7 @@ In my current role I do mostly a combination of data engineering and software de
 ### Goals
 I am currently an undergraduate student at the University of Illinois - Chicago in addition to my full-time job. I am currently gaining exposure to computational learning theory and machine learning algorithms under the guidance of [Dr. Ohanessian](https://sites.google.com/site/mesrob/). I am interested in exploring the intersection of quantum computing, machine learning, and cognitive science.
 
-My currently pinned repository is a personal project trying to implement an application of neuromorphic computing principles in Rust.
+My currently pinned repository is a personal project trying to implement an application of neuromorphic computing principles in Rust along with a sandbox web application for some personal prototyping that I'm working on turning into a personal website.
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
